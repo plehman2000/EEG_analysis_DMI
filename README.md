@@ -1,2 +1,2 @@
 # EEG_analysis_DMI
- MeditationAnalysis
+Analysis of EEG data of meditative Fruitions, Fire Kasinas, etc
